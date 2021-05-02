@@ -10,5 +10,6 @@ namespace LottoApp
     {
         public static int balance = 150;
         public static bool IsLoggedIn = false;
+        
     }
 }

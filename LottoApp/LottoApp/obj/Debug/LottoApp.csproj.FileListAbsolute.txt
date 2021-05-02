@@ -10,3 +10,15 @@ C:\Users\rasmu\source\repos\LottoApp\LottoApp\obj\Debug\LottoApp.exe
 C:\Users\rasmu\source\repos\LottoApp\LottoApp\obj\Debug\LottoApp.pdb
 C:\Users\rasmu\source\repos\LottoApp\LottoApp\bin\Debug\LottoTickets.mdf
 C:\Users\rasmu\source\repos\LottoApp\LottoApp\bin\Debug\LottoTickets_log.ldf
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\bin\Debug\LottoTickets.mdf
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\bin\Debug\LottoTickets_log.ldf
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\bin\Debug\LottoApp.exe.config
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\bin\Debug\LottoApp.exe
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\bin\Debug\LottoApp.pdb
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\obj\Debug\LottoApp.csprojAssemblyReference.cache
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\obj\Debug\LottoApp.Form1.resources
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\obj\Debug\LottoApp.Properties.Resources.resources
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\obj\Debug\LottoApp.csproj.GenerateResource.cache
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\obj\Debug\LottoApp.exe
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\obj\Debug\LottoApp.pdb
+C:\Users\rasmu\Documents\LottoApp\LottoApp\LottoApp\obj\Debug\LottoApp.Register.resources

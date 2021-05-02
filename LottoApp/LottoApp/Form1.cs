@@ -54,10 +54,37 @@ namespace LottoApp
         {
             
         }
+        public void RowGen(int amount)
+        {
+            Random Winningrnd = new Random();
+            Random Starrnd = new Random();
+            int number = 0;
+            for (int i = 0; i < amount; i++)
+            {
+                number++;                               
+                string win = Winningrnd.Next(10000000, 99999999).ToString();
+                string star = Starrnd.Next(9, 100).ToString();
+                dataGridView2.Rows.Add(number.ToString(), win, star);
+            }
+            
 
+        }
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            RowGenerator.RowGen(Int32.Parse(comboBox1.Text));
+            dataGridView2.Rows.Clear();
+            RowGen(Int32.Parse(comboBox1.Text));
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            dataGridView2.Rows.Clear();
+            RowGen(Int32.Parse(comboBox1.Text));
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Register r = new Register();
+            r.ShowDialog();
         }
     }
 }

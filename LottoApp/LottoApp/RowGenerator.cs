@@ -8,9 +8,14 @@ namespace LottoApp
 {
     class RowGenerator
     {
-        public static void RowGen(int rowAmount)
+        public void RowGen(int amount)
         {
-            
+            Random Winningrnd = new Random();
+            Random Starrnd = new Random();
+            Winningrnd.Next(10000000, 99999999);
+            Starrnd.Next(0,9);
+
+
         }
     }
 }
